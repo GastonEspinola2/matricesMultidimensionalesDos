@@ -1,1 +1,3 @@
 # matricesMultidimensionalesDos
+
+Para ejecutar el codigo se necesita tener instalado la extension "jupyter". Una vez instalada, para ejecutar el archivo "matricesMuldiDos.ipynb" solo abre el archivo y ejecuta la casilla donde se encuentra el codigo y en la parte inferior de la misma, estaran las opciones a las que puedes acceder y en la parte superior del VisualStudio Code podras completar la informacion que se requiere.
